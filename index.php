@@ -41,7 +41,7 @@
     <section class="hero">
       <div class="container">
         <h1>
-          Hola! Soy <strong>Ney Roger Perea</strong> <br/> Estudiante de Programacion  <strong>Python, Java, Html, CSS</strong> con <br> apasiónado por la <strong>tecnologia.</strong>
+          Hola! Soy <strong>Ney Roger Perea</strong> <br/> Estudiante de Programacion  <strong>Python, Java, Html y CSS</strong>  <br> apasiónado por la <strong>tecnologia.</strong>
         </h1>
         <img class="hero-image" src="images/hero.jpg" width="300" height="200" alt="imagen principal del sitio"> 
       </div>
