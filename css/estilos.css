@@ -1,32 +1,4 @@
-/* reglas
-selectores
-declaraciones
-propiedades
-valores */
 
-
-/* seletor de etiqueta  header - section - article - nav */
-/* header {
-  background: pink;
-  color: red
-} */
-
-/* selector descendente  */
-/* body header div nav ol li a  */
-
-/* selector de clase . */
-
-/* .link */
-
-/* selector de id # */
-/* #portafolio */
-
-
-
-/* gris oscuro = #1d252c */
-/* gris claro = #626262 */
-/* background gris = #1b2127 */
-/* celeste = #026fff */
 @font-face {
   font-family: 'icomoon';
   src:  url('../fonts/icomoon.eot?bqb2fe');
@@ -435,8 +407,7 @@ figure {
 }
 
 .youtube-video {
-  /* width: 100%; */
-  /* height: auto; */
+ 
   position: absolute;
   top: 0;
   bottom: 0;
@@ -594,5 +565,13 @@ figure {
   .hero {
     padding: 2em 1em;
   }
+}
+.correo { 
+  font-size: 20px;
+  font-weight: bold;
+  color: #f4fbff;
+  text-decoration: none;
+  display: block;
+  
 }
 
